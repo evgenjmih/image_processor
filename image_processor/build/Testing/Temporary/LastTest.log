@@ -1,0 +1,41 @@
+Start testing: Mar 27 17:33 MSK
+----------------------------------------------------------
+1/2 Testing: ColorTests
+1/2 Test: ColorTests
+Command: "/home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build/test_color"
+Directory: /home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build
+"ColorTests" start time: Mar 27 17:33 MSK
+Output:
+----------------------------------------------------------
+Тест создания цвета пройден
+Тест сравнения цветов пройден
+
+Все тесты пройдены
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ColorTests" end time: Mar 27 17:33 MSK
+"ColorTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: ImageTests
+2/2 Test: ImageTests
+Command: "/home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build/test_image"
+Directory: /home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build
+"ImageTests" start time: Mar 27 17:33 MSK
+Output:
+----------------------------------------------------------
+Тест создания изображения пройден
+Тест пикселей пройден
+
+Все тесты пройдены
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ImageTests" end time: Mar 27 17:33 MSK
+"ImageTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 27 17:33 MSK

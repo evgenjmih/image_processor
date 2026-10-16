@@ -1,0 +1,7 @@
+/home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build/CMakeFiles/libimageprocessor.dir
+/home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build/CMakeFiles/image_processor.dir
+/home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build/CMakeFiles/test_color.dir
+/home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build/CMakeFiles/test_image.dir
+/home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build/CMakeFiles/test.dir
+/home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build/CMakeFiles/edit_cache.dir
+/home/admin1/ami-Evgeniia-Tochenova-evgento44/tasks/image_processor/build/CMakeFiles/rebuild_cache.dir

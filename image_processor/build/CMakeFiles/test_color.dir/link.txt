@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_color.dir/tests/test_color.cpp.o -o test_color  liblibimageprocessor.a 

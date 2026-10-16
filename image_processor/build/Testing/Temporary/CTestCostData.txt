@@ -1,0 +1,3 @@
+ColorTests 4 0.00125523
+ImageTests 4 0.000861746
+---

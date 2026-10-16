@@ -1,0 +1,17 @@
+Error: error opening file
+Error: error opening file
+Error: error opening file
+Error: error opening file
+Error: error opening file
+Error: error opening file
+Running image_processor tests
+Executable: ../build/image_processor
+FAIL [lenna_crop] image_processor finished with non-zero exit code
+FAIL [flag_edge] image_processor finished with non-zero exit code
+FAIL [lenna_gs] image_processor finished with non-zero exit code
+FAIL [lenna_neg] image_processor finished with non-zero exit code
+FAIL [lenna_sharp] image_processor finished with non-zero exit code
+FAIL [lenna_blur] image_processor finished with non-zero exit code
+-----
+NO OK FILTERS :(
+-----
